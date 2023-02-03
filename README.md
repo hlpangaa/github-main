@@ -1,6 +1,4 @@
-<p align="center">
-![Banner](https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/laptop.jpeg)
-</p>
+<img alt="Banner" src="ttps://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/laptop.jpeg" align="center"/>
 
 ## 👋 &nbsp;Hey there! I'm Frankie
 
@@ -38,9 +36,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/hlpangaa">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hlpangaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlpangaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
