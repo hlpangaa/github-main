@@ -73,10 +73,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/frankie-p-602283137/"><img src="https://img.shields.io/badge/-Frankie%20Pang-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:frankiepang2010@gmail.com"><img src="https://img.shields.io/badge/-frankiepang2010@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<a href="https://www.hackerrank.com/frankiepang2010"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://www.kaggle.com/procrastinator1677"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=whitee"/></a>
-<a href="https://stackoverflow.com/users/18684930/hlpangaa"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/frankiepang2010"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.kaggle.com/procrastinator1677"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=whitee"/></a>
+<a href="https://stackoverflow.com/users/18684930/hlpangaa"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
