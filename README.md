@@ -4,15 +4,15 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I enjoy learning about new technologies and creating software solutions and quick hacks.\
-🎓 &nbsp;I'm currently a student at the University of Hong Kong studying Financial Technology and Data analytics.\
-🌱 &nbsp;I'm on my way to becoming more knowledgeable about Artificial Intelligence, Systems Design, and Cloud Architecture. \
-✍️ &nbsp;In my spare time, I indulge in reading history books and chinese novels.\
-💬 &nbsp;Please contact me for pro bono consulting and volunteering, or simply to have an interesting conversation.\
-✉️ &nbsp; Send me an email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible.\
-📄 &nbsp;Please see my [resume](https://frankiepang2010.hackerresume.io/2d166ec5-8dc1-4652-9b44-30e4f63be7c6) for more information about me. I welcome feedback and suggestions!
+💡 &nbsp;I'm currently a Financial Technology and Data analytics major at the University of Hong Kong studying.\
+🎓 &nbsp;I enjoy learning about new technologies and creating software solutions and quick hacks.\
+🌱 &nbsp;My academic background has exposed me to Artificial Intelligence, Systems Design, and Cloud Architecture which I am interested in deepening my understanding of. \
+✍️ &nbsp;Apart from this, eading history books and chinese novels are hobbies/side hustles I pursue in my free time.\
 
-<img alt="Cat" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/cat.gif" align="right"/>
+💬 &nbsp;If you're in need of pro bono consulting services or just want an interesting conversation, feel free to reach out via email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible.\
+📄 &nbsp; My[resume](https://frankiepang2010.hackerresume.io/2d166ec5-8dc1-4652-9b44-30e4f63be7c6) also provides detailed insights into my profile if you'd like to know more about me. All feedback and suggestions are welcome!
+
+<img alt="Cat" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/catTyping.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -36,15 +36,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/hlpangaa">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hlpangaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/hlpangaa">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlpangaa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hlpangaa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlpangaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
