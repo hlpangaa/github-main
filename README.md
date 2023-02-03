@@ -26,3 +26,17 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hlpangaa&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Project
+---
+Data crawing https://github.com/hlpangaa/python-web-scraping
+Data Fetching 
+https://github.com/hlpangaa/react-foodie-data-fetching
+https://github.com/hlpangaa/react-trading-data-fetching
+Databrick https://github.com/hlpangaa/databrick-formula1-data
+Blockchain https://github.com/hlpangaa/nft-ticketing-main
+ML - python-ml
+https://github.com/hlpangaa/python-ml-linear-regression
+https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data
+https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data
+https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner
