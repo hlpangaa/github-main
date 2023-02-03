@@ -12,7 +12,7 @@
 💬 &nbsp;If you're in need of pro bono consulting services or just want an interesting conversation, feel free to reach out via email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible.\
 📄 &nbsp; My[resume](https://frankiepang2010.hackerresume.io/2d166ec5-8dc1-4652-9b44-30e4f63be7c6) also provides detailed insights into my profile if you'd like to know more about me. All feedback and suggestions are welcome!
 
-<img alt="Cat" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/catTyping.gif" align="right"/>
+<img alt="Cat" width="220px" height="auto" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/catImage.gif" align="right" />
 
 ### 🛠 &nbsp;Tech Stack
 
