@@ -1,3 +1,21 @@
+![Banner](https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/laptop.jpeg)
+
+<img alt="Cat" src="./assets/cat.gif" width='40' align="left"/><h2>Hey there! I'm Frankie</h2>
+
+<!-- ## 👋 &nbsp;Hey there! I'm Frankie -->
+
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp;I enjoy learning about new technologies and creating software solutions and quick hacks.\
+🎓 &nbsp;I'm currently a student at the University of Hong Kong studying Financial Technology and Data analytics.\
+🌱 &nbsp;I'm on my way to becoming more knowledgeable about Artificial Intelligence, Systems Design, and Cloud Architecture. \
+✍️ &nbsp;In my spare time, I dabble in graphic design and blog writing as side projects.\
+💬 &nbsp;Please contact me for pro bono consulting and volunteering, or simply to have an interesting conversation.\
+✉️ &nbsp; Send me an email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible.\
+📄 &nbsp;Please see my [resume](https://frankiepang2010.hackerresume.io/2d166ec5-8dc1-4652-9b44-30e4f63be7c6) for more information about me. I welcome feedback and suggestions!
+
+<img alt="Cat" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/catgif" align="right"/>
+
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -28,18 +46,38 @@
 </p>
 
 ### Project
+
 ---
+
 #### Data crawing
+
 - https://github.com/hlpangaa/python-web-scraping
-#### Data Fetching 
+
+#### Data Fetching
+
 - https://github.com/hlpangaa/react-foodie-data-fetching
 - https://github.com/hlpangaa/react-trading-data-fetching
+
 #### Databrick
+
 - https://github.com/hlpangaa/databrick-formula1-data
+
 ### Blockchain
+
 - https://github.com/hlpangaa/nft-ticketing-main
+
 #### ML - python-ml
+
 - https://github.com/hlpangaa/python-ml-linear-regression
 - https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data
 - https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data
 - https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/frankie-p-602283137/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:frankiepang2010@gmail.com"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/frankiepang2010"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.kaggle.com/procrastinator1677"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=whitee"/></a>
+<a href="https://stackoverflow.com/users/18684930/hlpangaa"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
