@@ -1,4 +1,4 @@
-<img alt="Banner" height="300px" width="auto"  src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/laptop.jpeg" align="center"/>
+<img alt="Banner" width="100％" height="auto"  src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/laptop.jpeg" align="center"/>
 
 ## 👋 &nbsp;Hey there! I'm Frankie
 
