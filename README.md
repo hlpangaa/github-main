@@ -1,5 +1,3 @@
-<img alt="Banner" width="100％" height="300px"  src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/laptop.jpeg" align="center"/>
-
 ## 👋 &nbsp;Hey there! I'm Frankie
 
 ### 👨🏻‍💻 &nbsp;About Me
