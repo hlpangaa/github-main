@@ -31,14 +31,14 @@
 ---
 #### Data crawing
 - https://github.com/hlpangaa/python-web-scraping
-### Data Fetching 
+#### Data Fetching 
 - https://github.com/hlpangaa/react-foodie-data-fetching
 - https://github.com/hlpangaa/react-trading-data-fetching
-### Databrick
+#### Databrick
 - https://github.com/hlpangaa/databrick-formula1-data
 ### Blockchain
 - https://github.com/hlpangaa/nft-ticketing-main
-### ML - python-ml
+#### ML - python-ml
 - https://github.com/hlpangaa/python-ml-linear-regression
 - https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data
 - https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data
