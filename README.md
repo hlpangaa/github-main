@@ -106,7 +106,7 @@
 
 ##### Reinforcement Learning
 
-**Robot Cleaning ** (https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner)
+**Robot Cleaning** (https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner)
 
 - Created a learning environment, a robot agent and a reward function and applied reinforcement learning algorithm to enable the robot to learn
 - Visualized the Robot Behavior and evaluated the result via a plotted graph for rewards aginst the number of testing episode
