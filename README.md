@@ -77,4 +77,6 @@
 <a href="https://stackoverflow.com/users/18684930/hlpangaa"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
+<div align="center">
 <img alt="mochi" width="355px" height="auto" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/mochi.png" align="center" />
+</div>
