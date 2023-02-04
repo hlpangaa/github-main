@@ -5,10 +5,10 @@
 💡 &nbsp;I'm currently a Financial Technology and Data analytics major at the University of Hong Kong studying.\
 🎓 &nbsp;I enjoy learning about new technologies and creating software solutions and quick hacks.\
 🌱 &nbsp;My background has exposed me to AI and Systems Design which I will deepen my understanding of.\
-✍️ &nbsp;Apart from this, eading history books and chinese novels are hobbies/side hustles I pursue in my free time.\
+✍️ &nbsp;Apart from this, reading history books and chinese novels are hobbies/side hustles I pursue in my free time.\
 💬 &nbsp;If you're in need of pro bono consulting services or just want an interesting conversation, feel free to reach out via email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible. My [resume](https://frankiepang2010.hackerresume.io/2d166ec5-8dc1-4652-9b44-30e4f63be7c6) also provides detailed insights into my profile if you'd like to know more about me. All feedback and suggestions are welcome!
 
-<img alt="Cat" width="220px" height="auto" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/catImage.gif" align="right" />
+<img alt="Cat" width="220px" height="auto" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/cat.gif" align="right" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -76,3 +76,5 @@
 <a href="https://www.kaggle.com/procrastinator1677"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=whitee"/></a>
 <a href="https://stackoverflow.com/users/18684930/hlpangaa"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
 </p>
+
+<img alt="mochi" src="https://raw.githubusercontent.com/hlpangaa/github-profile/master/assets/mochi.jpeg" align="center" />
