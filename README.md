@@ -72,13 +72,13 @@
 - Built a React-based portal to allow users to view trading data in own's watchlist via FinnHub API
 - Visualized the candle chart for the stock and introduced Auto-complete function in the stock list
 
-#### Data Pipline
+#### Data Pipeline
 
 ---
 
-**F1(Car Racing) Data Pipline** (https://github.com/hlpangaa/databrick-formula1-data)
+**F1(Car Racing) Data Pipeline** (https://github.com/hlpangaa/databrick-formula1-data)
 
-- Constructed a data pipline for F1 data in Azure environment with components of Azure data lake storage, Azure data factory and Databrick
+- Constructed a data pipeline for F1 data in Azure environment with components of Azure data lake storage, Azure data factory and Databrick
 - Transformed and Load the data using Python and SQL to convert a single csv to multiple tables with defined schema and partition
 
 #### Machine Learning
