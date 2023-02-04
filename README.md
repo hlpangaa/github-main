@@ -17,9 +17,10 @@
 ![Databricks](https://img.shields.io/badge/-Databricks-05122A?style=flat&logo=databricks)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=NumPy)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)\
+![Scikit-learn](https://img.shields.io/badge/-scikitlearn-05122A?style=flat&logo=scikitlearn)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=Solidity)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
