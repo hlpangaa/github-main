@@ -6,7 +6,7 @@
 🎓 &nbsp;I enjoy learning about new technologies and creating software solutions and quick hacks.\
 🌱 &nbsp;My background has exposed me to AI and Systems Design which I will deepen my understanding of.\
 ✍️ &nbsp;Apart from this, reading history books and chinese novels are hobbies/side hustles I pursue in my free time.\
-💬 &nbsp;If you're in need of pro bono consulting services or just want an interesting conversation, feel free to reach out via email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible. My ![resume](https://raw.githubusercontent.com/hlpangaa/hlpangaa/master/assets/Frankie's%20%Resume-hackerresume.pdf) also provides detailed insights into my profile if you'd like to know more about me. All feedback and suggestions are welcome!
+💬 &nbsp;If you're in need of pro bono consulting services or just want an interesting conversation, feel free to reach out via email at FrankiePang2010@gmail.com! I'll do my best to respond as soon as possible. My [resume](https://raw.githubusercontent.com/hlpangaa/hlpangaa/master/assets/frankie-resume-hackerresume.pdf) also provides detailed insights into my profile if you'd like to know more about me. All feedback and suggestions are welcome!
 
 <img alt="Cat" width="220px" height="auto" src="https://raw.githubusercontent.com/hlpangaa/hlpangaa/master/assets/cat.gif" align="right" />
 
