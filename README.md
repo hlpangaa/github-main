@@ -85,7 +85,8 @@
 
 ---
 
-Supervised Learning
+##### Supervised Learning
+
 **Used Car Price Prediction** (https://github.com/hlpangaa/python-ml-linear-regression)
 
 - Gathered and analyzed data related to used car prices and divided the data into training and testing datasets
@@ -96,13 +97,15 @@ Supervised Learning
 - Gathered and analyzed data related to automobile loan and divided the data into training and testing datasets
 - Constructed a decision tree via computing the information gain recursively , improved the model performance using Random Forest Algorithms(RFA), and predicted the loan status (Approved/Declined)
 
-Unsupervised Learning
+##### Unsupervised Learning
+
 **Clustering to group Loan Applications** (https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data)
 
 - Gathered and analyzed data related to automobile loan application and divided the data into training and testing datasets
 - Applied K-means and Hierarchical Clustering, evaluated the model and generated the clustering results.
 
-Reinforcement Learning
+##### Reinforcement Learning
+
 **Robot Cleaning **(https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner)
 
 - Created a learning environment, a robot agent and a reward function and applied reinforcement learning algorithm to enable the robot to learn
