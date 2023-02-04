@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm currently a Financial Technology and Data analytics major at the University of Hong Kong studying.\
+💡 &nbsp;I'm currently a Financial Technology and Data analytics major studying at the University of Hong Kong.\
 🎓 &nbsp;I enjoy learning about new technologies and creating software solutions and quick hacks.\
 🌱 &nbsp;My background has exposed me to AI and Systems Design which I will deepen my understanding of.\
 ✍️ &nbsp;Apart from this, reading history books and chinese novels are hobbies/side hustles I pursue in my free time.\
@@ -20,9 +20,6 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow)\
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
@@ -39,33 +36,77 @@
 </a>
 </p>
 
-### Project
+### Projects
 
 ---
 
-#### Data crawing
+#### Blockchain
 
-- https://github.com/hlpangaa/python-web-scraping
+---
+
+**dApp for NFT Ticketing** (https://github.com/hlpangaa/nft-ticketing-main)
+
+- Deployed smart contracts in Ethereum network using hardhat framework, utilized a Next JS frontend to allow user to use Metamask to interact with the smart contract in a Web3 fashsion
+- Hosted the frontend in Fleek(decentralized nodes) and connected with theGraph(indexing protocal) to listen the event emitted under the contracts, stored metadata in InterPlanetary File System(IPFS)
+
+#### Data Scraping
+
+---
+
+**Flight Price Alert** (https://github.com/hlpangaa/python-web-scraping)
+
+- Programed to harvest flight price data from Expedia and Skyscanner using Beautiful soup and Selenium, scheduled to run daily with Macbook's built-in job automater.
+- Cleaned, normalized, and transformed the raw data into usable information in Pandas and Numpy, designed a alert trigger when the expected price is hitted.
 
 #### Data Fetching
 
-- https://github.com/hlpangaa/react-foodie-data-fetching
-- https://github.com/hlpangaa/react-trading-data-fetching
+---
 
-#### Databrick
+**Foodie Portal** (https://github.com/hlpangaa/react-foodie-data-fetching)
 
-- https://github.com/hlpangaa/databrick-formula1-data
+- Built a React-based portal to allow users to view random food recipes or search sepcific type of food and feedback
+- Setup API integration with themealdb to the responsive single page application
 
-#### Blockchain
+**Trader's Watchlist** (https://github.com/hlpangaa/react-trading-data-fetching)
 
-- https://github.com/hlpangaa/nft-ticketing-main
+- Built a React-based portal to allow users to view trading data in own's watchlist via FinnHub API
+- Visualized the candle chart for the stock and introduced Auto-complete function in the stock list
 
-#### ML - python-ml
+#### Data Pipline
 
-- https://github.com/hlpangaa/python-ml-linear-regression
-- https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data
-- https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data
-- https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner
+---
+
+**F1(Car Racing) Data Pipline** (https://github.com/hlpangaa/databrick-formula1-data)
+
+- Constructed a data pipline for F1 data in Azure environment with components of Azure data lake storage, Azure data factory and Databrick
+- Transformed and Load the data using Python and SQL to convert a single csv to multiple tables with defined schema and partition
+
+#### Machine Learning
+
+---
+
+Supervised Learning
+**Used Car Price Prediction** (https://github.com/hlpangaa/python-ml-linear-regression)
+
+- Gathered and analyzed data related to used car prices and divided the data into training and testing datasets
+- Built a linear regression model, evaluated the model using Mean Squared Error(MSE) and predicted the used car price
+
+**Classfication for Loan Evaluation** (https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data)
+
+- Gathered and analyzed data related to automobile loan and divided the data into training and testing datasets
+- Constructed a decision tree via computing the information gain recursively , improved the model performance using Random Forest Algorithms(RFA), and predicted the loan status (Approved/Declined)
+
+Unsupervised Learning
+**Clustering to group Loan Applications** (https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data)
+
+- Gathered and analyzed data related to automobile loan application and divided the data into training and testing datasets
+- Applied K-means and Hierarchical Clustering, evaluated the model and generated the clustering results.
+
+Reinforcement Learning
+**Robot Cleaning **(https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner)
+
+- Created a learning environment, a robot agent and a reward function and applied reinforcement learning algorithm to enable the robot to learn
+- Visualized the Robot Behavior and evaluated the result via a plotted graph for rewards aginst the number of testing episode
 
 ### 🤝🏻 &nbsp;Connect with Me
 
