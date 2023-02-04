@@ -47,8 +47,8 @@
 
 **dApp for NFT Ticketing** (https://github.com/hlpangaa/nft-ticketing-main)
 
-- Deployed smart contracts in Ethereum network using hardhat framework, utilized a Next JS frontend to allow user to use Metamask to interact with the smart contract in a Web3 fashsion
-- Hosted the frontend in Fleek(decentralized nodes) and connected with theGraph(indexing protocal) to listen the event emitted under the contracts, stored metadata in InterPlanetary File System(IPFS)
+- Deployed smart contracts in the Ethereum network using hardhat framework, utilized a Next JS frontend to allow users to use Metamask to interact with the smart contract in a Web3 fashion
+- Hosted the frontend in Fleek(decentralized nodes) and connected with the graph(indexing protocol) to listen to the event emitted under the contracts, stored metadata in InterPlanetary File System(IPFS)
 
 #### Data Scraping
 
@@ -56,8 +56,8 @@
 
 **Flight Price Alert** (https://github.com/hlpangaa/python-web-scraping)
 
-- Programed to harvest flight price data from Expedia and Skyscanner using Beautiful soup and Selenium, scheduled to run daily with Macbook's built-in job automater.
-- Cleaned, normalized, and transformed the raw data into usable information in Pandas and Numpy, designed a alert trigger when the expected price is hitted.
+- Programmed to harvest flight price data from Expedia and Skyscanner using Beautiful soup and Selenium, scheduled to run daily with Macbook's built-in job automater.
+- Cleaned, normalized, and transformed the raw data into usable information in Pandas and Numpy, and designed an alert trigger when the expected price is hit.
 
 #### Data Fetching
 
@@ -65,13 +65,13 @@
 
 **Foodie Portal** (https://github.com/hlpangaa/react-foodie-data-fetching)
 
-- Built a React-based portal to allow users to view random food recipes or search sepcific type of food and feedback
-- Setup API integration with themealdb to the responsive single page application
+- Built a React-based portal to allow users to view random food recipes or search specific types of food and feedback
+- Setup API integration with theMealDB to the responsive single-page application
 
 **Trader's Watchlist** (https://github.com/hlpangaa/react-trading-data-fetching)
 
-- Built a React-based portal to allow users to view trading data in own's watchlist via FinnHub API
-- Visualized the candle chart for the stock and introduced Auto-complete function in the stock list
+- Built a React-based portal to allow users to view trading data in their own's watchlist via FinnHub API
+- Visualized the candle chart for the stock and introduced the Auto-complete function in the stock list
 
 #### Data Pipeline
 
@@ -93,24 +93,24 @@
 - Gathered and analyzed data related to used car prices and divided the data into training and testing datasets
 - Built a linear regression model, evaluated the model using Mean Squared Error(MSE) and predicted the used car price
 
-**Classfication for Loan Evaluation** (https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data)
+**Classification for Loan Evaluation** (https://github.com/hlpangaa/python-ml-decision-tree-and-random-forest-loan-data)
 
-- Gathered and analyzed data related to automobile loan and divided the data into training and testing datasets
-- Constructed a decision tree via computing the information gain recursively , improved the model performance using Random Forest Algorithms(RFA), and predicted the loan status (Approved/Declined)
+- Gathered and analyzed data related to automobile loans and divided the data into training and testing datasets
+- Constructed a decision tree via computing the information gain recursively, improved the model performance using Random Forest Algorithms(RFA), and predicted the loan status (Approved/Declined)
 
 ##### Unsupervised Learning
 
 **Clustering to group Loan Applications** (https://github.com/hlpangaa/python-ml-kmean-and-clustering-loan-data)
 
-- Gathered and analyzed data related to automobile loan application and divided the data into training and testing datasets
+- Gathered and analyzed data related to automobile loan applications and divided the data into training and testing datasets
 - Applied K-means and Hierarchical Clustering, evaluated the model and generated the clustering results.
 
 ##### Reinforcement Learning
 
 **Robot Cleaning** (https://github.com/hlpangaa/python-ml-reinforement-learning-robot-cleaner)
 
-- Created a learning environment, a robot agent and a reward function and applied reinforcement learning algorithm to enable the robot to learn
-- Visualized the Robot Behavior and evaluated the result via a plotted graph for rewards aginst the number of testing episode
+- Created a learning environment, a robot agent and a reward function and applied a reinforcement learning algorithm to enable the robot to learn
+- Visualized the Robot Behavior and evaluated the result via a plotted graph for rewards against the number of testing episode
 
 ### 🤝🏻 &nbsp;Connect with Me
 
