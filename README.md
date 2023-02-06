@@ -112,6 +112,18 @@
 - Created a learning environment, a robot agent and a reward function and applied a reinforcement learning algorithm to enable the robot to learn
 - Visualized the Robot Behavior and evaluated the result via a plotted graph for rewards against the number of testing episode
 
+## Certifications
+
+- Azure Data Engineer Associate - [Microsoft](https://www.credly.com/earner/earned/badge/7ff9ae94-fc9a-4bcc-ae31-e9d7962c42e0)
+- Azure Data Fundamental - [Microsoft](https://www.credly.com/badges/3956e503-f18c-4e81-88cc-683107feb6f4)
+- Azure Fundamentals - [Microsoft](https://www.credly.com/badges/3718c200-2dba-4665-9dff-5d5a12fc147c?source=linked_in_profile)
+- Azure Databricks & Spark Core For Data Engineers(Python/SQL) - [Udemy](https://www.udemy.com/certificate/UC-ec6661b3-4b93-4aa9-81a8-b8600ee5810d/)
+- SQL (Advanced) Certificate - [Hackerank](https://www.hackerrank.com/certificates/0235b0bc5458)
+- Tableau training - [SkilUp](https://certificates.simplicdn.net/share/3490504_1653980215.pdf)
+- Certified Scrum Product Owner (CSPO) - [Scrum Alliance, Inc.](https://bcert.me/bc/html/show-badge.html?b=lyqlrbbi)
+- Professional Scrum Master I - [Scrum.org](https://www.scrum.org/certificates/569026)
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
