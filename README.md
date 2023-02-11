@@ -50,38 +50,6 @@
 - Deployed smart contracts in the Ethereum network using hardhat framework, utilized a Next JS frontend to allow users to use Metamask to interact with the smart contract in a Web3 fashion
 - Hosted the frontend in Fleek(decentralized nodes) and connected with the graph(indexing protocol) to listen to the event emitted under the contracts, stored metadata in InterPlanetary File System(IPFS)
 
-#### Data Scraping
-
----
-
-**Flight Price Alert** (https://github.com/hlpangaa/python-web-scraping)
-
-- Programmed to harvest flight price data from Expedia and Skyscanner using Beautiful soup and Selenium, scheduled to run daily with Macbook's built-in job automater.
-- Cleaned, normalized, and transformed the raw data into usable information in Pandas and Numpy, and designed an alert trigger when the expected price is hit.
-
-#### Data Fetching
-
----
-
-**Foodie Portal** (https://github.com/hlpangaa/react-foodie-data-fetching)
-
-- Built a React-based portal to allow users to view random food recipes or search specific types of food and feedback
-- Setup API integration with theMealDB to the responsive single-page application
-
-**Trader's Watchlist** (https://github.com/hlpangaa/react-trading-data-fetching)
-
-- Built a React-based portal to allow users to view trading data in their own's watchlist via FinnHub API
-- Visualized the candle chart for the stock and introduced the Auto-complete function in the stock list
-
-#### Data Pipeline
-
----
-
-**F1(Car Racing) Data Pipeline** (https://github.com/hlpangaa/databrick-formula1-data)
-
-- Constructed a data pipeline for F1 data in Azure environment with components of Azure data lake storage, Azure data factory and Databrick
-- Transformed and Load the data using Python and SQL to convert a single csv to multiple tables with defined schema and partition
-
 #### Machine Learning
 
 ---
@@ -111,6 +79,40 @@
 
 - Created a learning environment, a robot agent and a reward function and applied a reinforcement learning algorithm to enable the robot to learn
 - Visualized the Robot Behavior and evaluated the result via a plotted graph for rewards against the number of testing episode
+
+#### Data Pipeline
+
+---
+
+**F1(Car Racing) Data Pipeline** (https://github.com/hlpangaa/databrick-formula1-data)
+
+- Constructed a data pipeline for F1 data in Azure environment with components of Azure data lake storage, Azure data factory and Databrick
+- Transformed and Load the data using Python and SQL to convert a single csv to multiple tables with defined schema and partition
+
+
+#### Data Scraping
+
+---
+
+**Flight Price Alert** (https://github.com/hlpangaa/python-web-scraping)
+
+- Programmed to harvest flight price data from Expedia and Skyscanner using Beautiful soup and Selenium, scheduled to run daily with Macbook's built-in job automater.
+- Cleaned, normalized, and transformed the raw data into usable information in Pandas and Numpy, and designed an alert trigger when the expected price is hit.
+
+#### Data Fetching
+
+---
+
+**Foodie Portal** (https://github.com/hlpangaa/react-foodie-data-fetching)
+
+- Built a React-based portal to allow users to view random food recipes or search specific types of food and feedback
+- Setup API integration with theMealDB to the responsive single-page application
+
+**Trader's Watchlist** (https://github.com/hlpangaa/react-trading-data-fetching)
+
+- Built a React-based portal to allow users to view trading data in their own's watchlist via FinnHub API
+- Visualized the candle chart for the stock and introduced the Auto-complete function in the stock list
+
 
 ## Certifications
 
